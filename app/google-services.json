@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493030891696",
+    "project_id": "fir-authcompose-5fe15",
+    "storage_bucket": "fir-authcompose-5fe15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493030891696:android:be0e2fa936c4ad409a5b75",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TS7kk5IZnu75t_5T8iEdzp6dQD_FItM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
