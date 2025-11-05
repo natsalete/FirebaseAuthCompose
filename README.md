@@ -262,7 +262,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Desenvolvido por Natalia Salete
 
 - GitHub: [@natsalete](https://github.com/natsalete)
-- LinkedIn: [Natália Santos](https://www.linkedin.com/in/natalia-salete-rodrigues/)
+- LinkedIn: [Natália Salete](https://www.linkedin.com/in/natalia-salete-rodrigues/)
 - Email: natsalete14@gmail.com
 
 ---
@@ -557,7 +557,7 @@ This project is licensed under the MIT License. See the [LICENSE] file for more 
 Developed by Natalia Salete
 
 - GitHub: [@natsalete](https://github.com/natsalete)
-- LinkedIn: [Natália Santos](https://www.linkedin.com/in/natalia-salete-rodrigues/)
+- LinkedIn: [Natália Salete](https://www.linkedin.com/in/natalia-salete-rodrigues/)
 - Email: natsalete14@gmail.com
 
 ---
